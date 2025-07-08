@@ -1,5 +1,5 @@
 .gradient-background {
-     background-color: darkred;
+  background-color: darkred;
   background-size: 180% 180%;
   animation: gradient-animation 10s ease infinite;
 }
